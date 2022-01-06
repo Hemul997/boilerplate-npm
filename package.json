@@ -16,6 +16,7 @@
   },
   "description": "This project is something new in my life",
   "keywords": ["new", "awesome", "freecodecamp"],
-  "version": "2.10.2",
-  "license": "BSD"
+  "version": "1.0.5",
+  "license": "BSD",
+  "moment": "2.10.2"
 }
