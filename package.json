@@ -3,7 +3,8 @@
   "author": "Hemul997",
   "dependencies": {
     "ejs": "^3.1.6",
-    "express": "^4.17.2"
+    "express": "^4.17.2",
+    "moment": "2.14.0"
   },
   "main": "server.js",
   "scripts": {
