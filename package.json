@@ -4,7 +4,7 @@
   "dependencies": {
     "ejs": "^3.1.6",
     "express": "^4.17.2",
-    "moment": "2.14.0"
+    "moment": "2.10.2"
   },
   "main": "server.js",
   "scripts": {
@@ -17,6 +17,5 @@
   "description": "This project is something new in my life",
   "keywords": ["new", "awesome", "freecodecamp"],
   "version": "1.0.5",
-  "license": "BSD",
-  "moment": "2.10.2"
+  "license": "BSD"
 }
